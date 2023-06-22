@@ -161,7 +161,13 @@ $ sudo make install
 
 $ gmx --version
 ```
+Once it's installed we can remove the files we used to make it by doing:
 
+```
+$ cd
+
+$ rm -r gromacs-2023.1 && rm gromacs-2023.1.tar.gz
+```
 ### [Optional] Removing CMake
 
 ```
