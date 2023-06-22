@@ -159,7 +159,7 @@ $ make check
 
 $ sudo make install
 
-source /usr/local/gromacs/bin/GMXRC
+$ gmx --version
 ```
 
 ### [Optional] Removing CMake
